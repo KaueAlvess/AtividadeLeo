@@ -13,15 +13,13 @@ Este projeto foi desenvolvido como atividade prática para demonstrar a integra�
 ## 🔍 Funcionalidades
 
 - ✅ Busca por personagens  
-- 🧠 Exibe informações como nome, habilidades, time e origem  
-- 🌐 Integração com API REST  
+- ✅ Busca por id's   
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
 
-- JavaScript (ou sua stack preferida)  
-- Fetch API / Axios  
+- JavaScript 
 - API utilizada: [https://dattebayo.up.railway.app/ ](https://dattebayo.up.railway.app/ )  
 
 ---
